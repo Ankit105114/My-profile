@@ -7,7 +7,7 @@
 - 🌱 **Learning:** I’m focusing on improving my skills in Languages and Applications like  JavaScript, Python, Adobe Illustrator,Adobe Photoshop .
 - 🚀 **Interested in:** Front-end Development, Graphic Design, 3D Animation, Full Stack.
 - 🔭 **Working on:** A personal portfolio, a web development project, a posters and phot editing .
-- 💡 **Future Goals:** I want to contribute to open-source projects and work on  AI applications, data analytics.
+- 💡 **Future Goals:** I to contribute to open-source projects and work on  AI applications, data analytics.
 
 ## ⚡ Skills:
 - Programming Languages:  Python, Java, JavaScript, C++.
